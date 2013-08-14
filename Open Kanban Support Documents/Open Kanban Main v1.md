@@ -123,6 +123,7 @@ Second, if you understand Kanban well, and wish to contribute, get familiar with
 
 Third, our vision of Open Kanban is much bigger than this document, we want to make Open Kanban into an independent website, and spread the Open Kanban Movement around the world of Agile and Lean practitioners. If you would like to do more we welcome your help in any of the following areas:
 
+* Translations. We would like to reach the world with Open Kanban. We welcome translators from any part of the world!
 * Graphic Design. We would like to create several logos to identify people who follow, support us, or join forces as Open Kanban Methods or Certified Education providers.
 * Web Design and Development. We would like to have a website dedicated to Open Kanban, where people can find information about the project, education providers and like minded people who support the initiative. We are committed to Open Source solutions and languages such as PHP, Drupal and Ruby on Rails.
 * Hosting. If you would like to host our website, let us know. We are committed to open source operating systems such as Linux and FreeBSD.
