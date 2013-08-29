@@ -161,6 +161,7 @@ Per concludere considera di contribuire ad AgileLion Institute, che sponsorizza 
 
 Crediamo fermamente in un Open Kanban aperto e collaborativo per tutti, grazie molte per essere arrivato alla fine del documento principale di Open Kanban. Che i valori e i principi di Open Kanban siano utili a tutti voi!
 
-Joseph Hurtado
-Fondatore dell'[AgileLion Institute](http://agilelion.com) e Kanban Ace Coach - An Open Kanban Method
+Joseph Hurtado  
+Fondatore dell'[AgileLion Institute](http://agilelion.com)  
+Kanban Ace Coach - An Open Kanban Method
 
