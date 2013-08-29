@@ -21,11 +21,8 @@ Open Kanban è un movimento che rende a disponibili a tutti i valori e i princip
 Allo stesso modo, l'obiettivo di Open Kanban è di fornire alla comunità Kanban queste quattro libertà, nel contesto della conoscenza condivisa.
 
 1. Liberità di utilizzare Open Kanban per qualsiasi fine (Prima Liberta)
-
 2. Libertà di studiare, domandare e cambiare Open Kanban come si desidera, così che possa funzionare per te e per la tua organizzazione (Seconda Libertà)
-
 3. Libertà di eseguire "fork" o modificare copie di Open Kanban per creare la propria versione personalizzata, e distribuirla a chiunque (Terza Libertà)
-
 4. Libertà di beneficiare tutta la comuinità di Open Kanban con una soluzione migliore per tutti, tramite la condivisione dei tuoi contributi al Repository Principale di Open Kanban su [Github](https://github.com/agilelion/Open-Kanban). Questa libertà mostra il nostro impegno alla comunicazione, la collaborazione e il miglioramento continuo (Quarta Libertà).
 
 
@@ -60,8 +57,8 @@ Le estensioni che si basano su Open Kanban costituiscono i metodi Agili e Lean b
 
 Tutti i Metodi Open Kanban condividono le seguenti caratteristiche:
 
-* Una base comune Open Kanban sia Agile che Lean
-* Un approccio collaborativo per migliorare Open Kanban inviando le proprie idee all’interno del Repository Principale di Open Kanban; così da poterle condividere con tutta la comunità Open Kanban.
+ * Una base comune Open Kanban sia Agile che Lean
+ * Un approccio collaborativo per migliorare Open Kanban inviando le proprie idee all’interno del Repository Principale di Open Kanban; così da poterle condividere con tutta la comunità Open Kanban.
 
 La natura dell’Open Kanban Movement può essere facilmente compresa osservando il diagramma qui sotto:
 
@@ -81,70 +78,45 @@ I valori di Open Kanban sono radicate nei valori Lean e Agile; questi valori son
 
 
 1. **Rispetto per le persone**
-
-	* Rispettare le persone è alla base di Lean e del TPS (Toyota Production System). Rispettare le persone significa anche assumersi la responsabilità delle proprie azioni, e dare mandato agli altri di prendere atto di quelle azioni. 
-	* Il rispetto per le persone permette la delega e il demand-pull, che è cruciale per Kanban. Quando un qualsiasi sviluppatore può prendere una Story dal Backlog per svilupparla o per eseguire la QA (Quality Assurance), può farlo perchè noi lo rispettiamo, rispettiamo i suoi Skill e gli diamo l’abilità per farlo, lo permettiamo grazie al nostro rispetto. 
-	* Il rispetto per le persone inoltre si allinea pacificamente con Agile, o il Muri 無理 in Lean. Se rispetti il tuo team non lo farai lavorare fino allo sfinimento, e non sottoporrai il laovoratore a condizioni fisiche o intellettuali che non hanno successo. Uno sviluppatore, un manager o un team esausto sono la ricetta perfetta per un disastro. Kanban non può avere successo in questo modo.  
-
-
+    * Rispettare le persone è alla base di Lean e del TPS (Toyota Production System). Rispettare le persone significa anche assumersi la responsabilità delle proprie azioni, e dare mandato agli altri di prendere atto di quelle azioni. 
+    * Il rispetto per le persone permette la delega e il demand-pull, che è cruciale per Kanban. Quando un qualsiasi sviluppatore può prendere una Story dal Backlog per svilupparla o per eseguire la QA (Quality Assurance), può farlo perchè noi lo rispettiamo, rispettiamo i suoi Skill e gli diamo l’abilità per farlo, lo permettiamo grazie al nostro rispetto. 
+    * Il rispetto per le persone inoltre si allinea pacificamente con Agile, o il Muri 無理 in Lean. Se rispetti il tuo team non lo farai lavorare fino allo sfinimento, e non sottoporrai il laovoratore a condizioni fisiche o intellettuali che non hanno successo. Uno sviluppatore, un manager o un team esausto sono la ricetta perfetta per un disastro. Kanban non può avere successo in questo modo.  
 2. **Coraggio**
-
-	* Il Rispetto per le persone, da solo, non è sufficiente; come ha notato [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) al fine di migliorare o correggere gli errori abbiamo anche bisogno di coraggio. Quando un manager, un vice presidente, o una persona che ha una certa autorità commette degli errori e qualcuno di livello più basso glielo fa notare, c’è bisogno di coraggio per farlo. 
-	* Il coraggio combinato con il rispetto per le persone abilita un sistema di deleghe efficace, il demand-pull e il miglioramento continuo.
-
-
+    * Il Rispetto per le persone, da solo, non è sufficiente; come ha notato [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) al fine di migliorare o correggere gli errori abbiamo anche bisogno di coraggio. Quando un manager, un vice presidente, o una persona che ha una certa autorità commette degli errori e qualcuno di livello più basso glielo fa notare, c’è bisogno di coraggio per farlo. 
+    * Il coraggio combinato con il rispetto per le persone abilita un sistema di deleghe efficace, il demand-pull e il miglioramento continuo.
 3. **Focalizzazione sul valore**
-
-	* Una delle finalità chiave di Kanban è la creazione di valore. Nello sviluppo software per valore si intende la creazione del lavoro e il codice di buona qualità, elementi che sono anche parte di Agile. Il valore implica la soddisfazione del committente, che è lo scopo dei nostri sforzi. 
-	* Il valore è centrale anche in Lean e nel TPS, ma spesso è menzionato come l’altro lato della medaglia: eliminare lo spreco o il "Muda", in giapponese il Muda 無駄, rappresenta qualsiasi cosa che non aggiunge valore al processo o al flusso. Eliminando lo spreco, noi ottimizziamo la creazione di valore.
-
-
+    * Una delle finalità chiave di Kanban è la creazione di valore. Nello sviluppo software per valore si intende la creazione del lavoro e il codice di buona qualità, elementi che sono anche parte di Agile. Il valore implica la soddisfazione del committente, che è lo scopo dei nostri sforzi. 
+    * Il valore è centrale anche in Lean e nel TPS, ma spesso è menzionato come l’altro lato della medaglia: eliminare lo spreco o il "Muda", in giapponese il Muda 無駄, rappresenta qualsiasi cosa che non aggiunge valore al processo o al flusso. Eliminando lo spreco, noi ottimizziamo la creazione di valore.
 4. **Comunicazione e Collaborazione**
-
-
-	* La comunicazione e la collaborazione sono al centro del lavoro di gruppo. Un valore non funziona bene senza l’altro, per cui abbiamo deciso di raggrupparli. Per avere successo e creare valore abbiamo bisogno di ascoltare (comunicare) ma anche di lavorare con gli altri (collaborare).
-	* Senza il lavoro di gruppo Kanban fallisce, e ad essere onesti buona parte del business che non comunica e collabora fallirà.
-
-
+    * La comunicazione e la collaborazione sono al centro del lavoro di gruppo. Un valore non funziona bene senza l’altro, per cui abbiamo deciso di raggrupparli. Per avere successo e creare valore abbiamo bisogno di ascoltare (comunicare) ma anche di lavorare con gli altri (collaborare).
+    * Senza il lavoro di gruppo Kanban fallisce, e ad essere onesti buona parte del business che non comunica e collabora fallirà.
 5. **Approccio olistico e sistemico al cambiamento**
-
-	* Gli studi sulla [Teoria della Conoscenza Profonda](https://www.deming.org/theman/theories/profoundknowledge) di Deming e la [Teoria dei Vincoli](http://en.wikipedia.org/wiki/Theory_of_constraints) di Goldratt ci ricordano che una singola parte di un sistema non può mai portare da sola un miglioramento complessivo. Abbiamo bisogno di comprendere il punto di vista [olistico](http://agilelion.com/agile-kanban-cafe/hkanban-holistic-approach-getting-things-done) del sistema. Una delle componenti chiave del sistema sono le persone, non solo intese come risorse ma anche come individui completi che hanno funzionare il sistema. 
-	* Kanban concorda con questa visione e si propone di guidare il miglioramento dove veramente necessario. Una comprensione della visione d’insieme è fondamentale per arrivare a un cambiamento costante e di successo. 
+    * Gli studi sulla [Teoria della Conoscenza Profonda](https://www.deming.org/theman/theories/profoundknowledge) di Deming e la [Teoria dei Vincoli](http://en.wikipedia.org/wiki/Theory_of_constraints) di Goldratt ci ricordano che una singola parte di un sistema non può mai portare da sola un miglioramento complessivo. Abbiamo bisogno di comprendere il punto di vista [olistico](http://agilelion.com/agile-kanban-cafe/hkanban-holistic-approach-getting-things-done) del sistema. Una delle componenti chiave del sistema sono le persone, non solo intese come risorse ma anche come individui completi che hanno funzionare il sistema. 
+    * Kanban concorda con questa visione e si propone di guidare il miglioramento dove veramente necessario. Una comprensione della visione d’insieme è fondamentale per arrivare a un cambiamento costante e di successo. 
 
 #### 2. Le prassi di Open Kanban
 
 I valori di Open Kanban si traducono in azioni seguendo le quattro prassi chiave:
 
-
 1. **Visualizzare il flusso di lavoro**
-
-	* Quando facciamo un lavoro d’intelletto, come programmare un metodo, progettare un interfaccia utente o scrivere della documentazione, la maggior parte del lavoro è invisibile. Questo vuol dire che il risultato visibile dell’impegno sarà più piccolo dell’impegno effettivo, e quindi che una grande parte dell’impegno non può essere osservata facilmente. 
-	* Kanban affronta questa sfida utilizzando le [Kanban board](https://dl.dropboxusercontent.com/u/73847422/Kanban-Board/Kanban-Board-Example-AgileLion.png), rappresentazioni visive del [flusso di lavoro](http://agilelion.com/sites/default/files/u2/web-boards-in-context-Deming.jpg), che mostrano come gli elementi del lavoro si muovono da una fase all’altra. 
-	* Questa prassi di Kanban facilita la collaborazione quando si imposta il lavoro di un gruppo, e inoltre rende trasparente il processo e il lavoro che viene fatto da tutti. Se sei un manager puoi facilmente vedere - in qualsiasi momento - lo stato del lavoro, e se sei fai parte di un gruppo puoi osservare l’impatto che hai su tutto il lavoro.
-	* La visualizzazione dei flussi di lavoro non si limita alle Kanban board; si possono anche utilizzate delle note o dei diagrammi che tutti possono vedere, come dashboard, metriche di prestazione o altre tipologie di [information radiators](http://alistair.cockburn.us/Information+radiator). 
-
-
+    * Quando facciamo un lavoro d’intelletto, come programmare un metodo, progettare un interfaccia utente o scrivere della documentazione, la maggior parte del lavoro è invisibile. Questo vuol dire che il risultato visibile dell’impegno sarà più piccolo dell’impegno effettivo, e quindi che una grande parte dell’impegno non può essere osservata facilmente. 
+    * Kanban affronta questa sfida utilizzando le [Kanban board](https://dl.dropboxusercontent.com/u/73847422/Kanban-Board/Kanban-Board-Example-AgileLion.png), rappresentazioni visive del [flusso di lavoro](http://agilelion.com/sites/default/files/u2/web-boards-in-context-Deming.jpg), che mostrano come gli elementi del lavoro si muovono da una fase all’altra. 
+    * Questa prassi di Kanban facilita la collaborazione quando si imposta il lavoro di un gruppo, e inoltre rende trasparente il processo e il lavoro che viene fatto da tutti. Se sei un manager puoi facilmente vedere - in qualsiasi momento - lo stato del lavoro, e se sei fai parte di un gruppo puoi osservare l’impatto che hai su tutto il lavoro.
+    * La visualizzazione dei flussi di lavoro non si limita alle Kanban board; si possono anche utilizzate delle note o dei diagrammi che tutti possono vedere, come dashboard, metriche di prestazione o altre tipologie di [information radiators](http://alistair.cockburn.us/Information+radiator). 
 2. **Condurre il lavoro con un approccio basato sul team**
-
-	* A meno che la tua organizzazione non sia composta da una sola persona, non si può ottenere qualcosa di buono senza condurre un team. 
-	* Anche se Kanban mantiene la struttura esistente di un’organizzazione e non ha bisogno di modificare titoli o ruoli, non può lavorare senza un team che rilascia valore.
-	* Tutto il team e la team leadership sono cruciali per rilasciare valore. Entrambi sono necessari in Kanban: buoni team e una buona team leadership. Non sono necessari nuovi ruoli o nuovi tioli, ma abbiamo bisogno di gruppi di lavoro, e dei rispettivi leader!
-
-
+    * A meno che la tua organizzazione non sia composta da una sola persona, non si può ottenere qualcosa di buono senza condurre un team. 
+    * Anche se Kanban mantiene la struttura esistente di un’organizzazione e non ha bisogno di modificare titoli o ruoli, non può lavorare senza un team che rilascia valore.
+    * Tutto il team e la team leadership sono cruciali per rilasciare valore. Entrambi sono necessari in Kanban: buoni team e una buona team leadership. Non sono necessari nuovi ruoli o nuovi tioli, ma abbiamo bisogno di gruppi di lavoro, e dei rispettivi leader!
 3. **Ridurre i propri sforzi all'interno del Batch Size**
-
-	* Le ricerche su come [funziona la mente](http://www.thenewatlantis.com/publications/the-myth-of-multitasking), le [innumerevoli](http://blogs.hbr.org/bregman/2010/05/how-and-why-to-stop-multitaski.html) esperienze [Lean](http://management.curiouscatblog.net/2010/05/24/people-cannot-multitask/), la [Teoria dei Vincoli](http://theoryofconstraints.blogspot.com/2007/07/multi-tasking-why-projects-take-so-long.html) e [Kanban](http://www.personalkanban.com/pk/expert/multitasking-and-bottlenecks-why-limit-your-wip-iii/#sthash.qqyUA7tS.dpbs)  confermano che per rilasciare valore velocemente - con un flusso di lavoro ottimale e un buon team motivato - abbiamo bisogno di focalizzarci, e di limitare il numero delle cose che facciamo. Il multitasking non funziona. 
-	* Limitare la quantità di cose facciamo contemporaneamente significa ridurre il batch size di qualcosa che stiamo facendo in una particolare fase nella Catena del Valore. Facendo questo rilasceremo il valore più velocemente perchè possiamo focalizzarci sull’impegno necessario. Una delle migliori spiegazioni di questo è stata fornita da [Donald G. Reinertsen](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009). Mantenere il team focalizzato lo aiuta a finire velocemente quello che si è cominciato. 
-	* Limitare il WIP (Work In Progress) è una conseguenza di gli sforzi all’interno di un Batch Size. Comunque limitare il WIP e gli Sforzi migliorerà efficienza e produttività. Open Kanban non chiede di limitare il WIP, ma richiede di "ridurre i propri sforzi all'interno del Batch Size".
-	* Come si fa a ridurre i propri sforzi all'interno del Batch Size? Riducendo la complessità e la quantità delle cose che vengono fatte in una qualsiasi fase della Catena del Valore. Nello sviluppo software questo vuol dire: ridurre il numero di User Story grandi (Epiche) che vengono create e fare il meglio che si può per mantenere le User Story semplici; inoltre ridurre la quantità delle storie in cui si lavora in ogni fase del Ciclo di Sviluppo del Software; in questo modo il team si focalizzerà, e rilascerà più valore.
-
-
+    * Le ricerche su come [funziona la mente](http://www.thenewatlantis.com/publications/the-myth-of-multitasking), le [innumerevoli](http://blogs.hbr.org/bregman/2010/05/how-and-why-to-stop-multitaski.html) esperienze [Lean](http://management.curiouscatblog.net/2010/05/24/people-cannot-multitask/), la [Teoria dei Vincoli](http://theoryofconstraints.blogspot.com/2007/07/multi-tasking-why-projects-take-so-long.html) e [Kanban](http://www.personalkanban.com/pk/expert/multitasking-and-bottlenecks-why-limit-your-wip-iii/#sthash.qqyUA7tS.dpbs)  confermano che per rilasciare valore velocemente - con un flusso di lavoro ottimale e un buon team motivato - abbiamo bisogno di focalizzarci, e di limitare il numero delle cose che facciamo. Il multitasking non funziona. 
+    * Limitare la quantità di cose facciamo contemporaneamente significa ridurre il batch size di qualcosa che stiamo facendo in una particolare fase nella Catena del Valore. Facendo questo rilasceremo il valore più velocemente perchè possiamo focalizzarci sull’impegno necessario. Una delle migliori spiegazioni di questo è stata fornita da [Donald G. Reinertsen](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009). Mantenere il team focalizzato lo aiuta a finire velocemente quello che si è cominciato. 
+    * Limitare il WIP (Work In Progress) è una conseguenza di gli sforzi all’interno di un Batch Size. Comunque limitare il WIP e gli Sforzi migliorerà efficienza e produttività. Open Kanban non chiede di limitare il WIP, ma richiede di "ridurre i propri sforzi all'interno del Batch Size".
+    * Come si fa a ridurre i propri sforzi all'interno del Batch Size? Riducendo la complessità e la quantità delle cose che vengono fatte in una qualsiasi fase della Catena del Valore. Nello sviluppo software questo vuol dire: ridurre il numero di User Story grandi (Epiche) che vengono create e fare il meglio che si può per mantenere le User Story semplici; inoltre ridurre la quantità delle storie in cui si lavora in ogni fase del Ciclo di Sviluppo del Software; in questo modo il team si focalizzerà, e rilascerà più valore.
 4. **Apprendere e migliorare continuamente**
-
-	* Le quattro prassi assicurano che stai facendo le cose meglio di prima, e che rilascerai più valore. Comunque per essere sicuri che farai un salto significativo in fatto di innovazione, motivazione e valore hai anche bisogno di fermarti, apprendere e applicare la tua conoscenza per migliorarti!
-	* Vale la pena menzionare che questa prassi si allinea con il valore Agile di abbracciare il cambiamento, e che ci sono molti modi in cui un team Kanban può implementare questa prassi, puoi fare delle Retrospettive, Incontri Strategici oppurre Gruppi Kaizen.
-	* L’apprendimento è un concetto chiave senza il quale non può esserci il miglioramento continuo! Quando l’apprendimento fa parte della cultura, parte del flusso di lavoro, allora il miglioramento continuo diventa facile.
-	 * Open Kanban supporta ulteriormente l’apprendimento tramite l’ascolto della comunità e aggiornandosi per essere un metodo migliore sia Agile che Lean.
+    * Le quattro prassi assicurano che stai facendo le cose meglio di prima, e che rilascerai più valore. Comunque per essere sicuri che farai un salto significativo in fatto di innovazione, motivazione e valore hai anche bisogno di fermarti, apprendere e applicare la tua conoscenza per migliorarti!
+    * Vale la pena menzionare che questa prassi si allinea con il valore Agile di abbracciare il cambiamento, e che ci sono molti modi in cui un team Kanban può implementare questa prassi, puoi fare delle Retrospettive, Incontri Strategici oppurre Gruppi Kaizen.
+    * L’apprendimento è un concetto chiave senza il quale non può esserci il miglioramento continuo! Quando l’apprendimento fa parte della cultura, parte del flusso di lavoro, allora il miglioramento continuo diventa facile.
+    * Open Kanban supporta ulteriormente l’apprendimento tramite l’ascolto della comunità e aggiornandosi per essere un metodo migliore sia Agile che Lean.
 
 #### 3. La licenza di Open Kanban
 
