@@ -1,5 +1,4 @@
-
 # Open Kanban
 
-An Spanish translation of Open Kanban is coming soon!  
-La traducción al Español de Open Kanban viene pronto!
+A Spanish translation of Open Kanban is coming soon!  
+¡Una traducción al Español de Open Kanban próximamente!
