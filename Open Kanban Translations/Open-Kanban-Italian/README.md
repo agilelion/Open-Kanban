@@ -164,4 +164,3 @@ Crediamo fermamente in un Open Kanban aperto e collaborativo per tutti, grazie m
 Joseph Hurtado  
 Fondatore dell'[AgileLion Institute](http://agilelion.com)  
 Kanban Ace Coach - An Open Kanban Method
-
