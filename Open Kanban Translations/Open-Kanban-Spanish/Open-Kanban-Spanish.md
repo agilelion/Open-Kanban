@@ -2,12 +2,14 @@
 
 | Open Kanban Metadata |||
 | :------------ | -----------: | -------------------: |
-| Author:     | Joseph Hurtado  | Joseph at AgileLion dot com |
-| Contributor: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
+| Autor:     | Joseph Hurtado  | Joseph at AgileLion dot com |
+| Colaboradora: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
+| Traductor: |	Federico Varchavsky |	Federico at Varchavsky dot com dot ar |
+| Lenguaje soportado: | Español |	
 | Sponsor:    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
-| Main Repository:	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
-| Document Name:	| Open Kanban Main | This page describes the heart of Open Kanban |
-| Release and License:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
+| Repositorio principal:	| Open Kanban en GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
+| Nombre del documento:	| Open-Kanban-Spanish | Esta página describe el corazón de Open Kanban |
+| Licencia y release:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
 
 ## Our Movement for a Free Open Kanban
 Open Kanban is a movement to make the core values and principles of Kanban available to all. It is inspired by the Open Source [movement](https://en.wikipedia.org/wiki/Open-source_software) goal to give software users and developers the four essential freedoms of [free software.](http://www.gnu.org/philosophy/free-sw.html)
