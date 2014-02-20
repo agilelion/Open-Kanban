@@ -12,13 +12,13 @@
 | Licencia y release:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
 
 ## Nuestro movimiento por un Open Kanban libre
-Open Kanban es un movimiento para poner a disposición de todos los valores y principios de Kanban. Inspirado por el [movimiento](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto) de Código Abierto (Open Source) cuyo fin es dar a los usuarios de software y desarrolladores las cuatro libertades fundamentales del [software libre.](http://www.gnu.org/philosophy/free-sw.es.html)
+Open Kanban es un movimiento para poner a disposición de todos los valores y principios de Kanban. Inspirado por el [movimiento de Código Abierto] (https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto) (Open Source) cuyo fin es dar a los usuarios de software y desarrolladores las cuatro libertades fundamentales del [software libre.](http://www.gnu.org/philosophy/free-sw.es.html)
 
 De la misma forma, el propósito de Open Kanban es dar a la comunidad Kanban esas cuatro libertades, pero ahora en el contexto del conocimiento compartido:  
 1. Libertad para usar Open Kanban para cualquier propósito (libertad 1)  
 2. Libertad para estudiar, preguntar, y cambiar Open Kanban como lo desen para lograr que le funcione y funcione en su organización (libertad 2)  
-3. Libertado de [bifurcar (hacer un "fork")] (http://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)) o modificar copias de Open Kanban para crear la propia versión personalizada, y dársela a cualquier persona (libertad 3)  
-4. Libertad de beneficiar a toda la comunidad Open Kanban con una solución mejor para todos, compartiendo sus contribuciones con el repositorio principal de Open Kanban. Es es posible vía sus contribuciones a nuestro repositorio principal en [Github.](https://github.com/agilelion/Open-Kanban) Esta libertado muestra nuestro compromiso con la comunicación, colaboración y mejora continua (libertad 4).
+3. Libertad de [bifurcar (hacer un "fork")] (http://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)) o modificar copias de Open Kanban para crear la propia versión personalizada, y dársela a cualquier persona (libertad 3)  
+4. Libertad de beneficiar a toda la comunidad Open Kanban con una solución mejor para todos, compartiendo sus contribuciones con el repositorio principal de Open Kanban. Es es posible mediante sus contribuciones a nuestro repositorio principal en [Github.](https://github.com/agilelion/Open-Kanban) Esta libertad muestra nuestro compromiso con la comunicación, colaboración y mejora continua (libertad 4).
 
 ## Open Kanban Introduction
 Kanban is becoming an important part of Agile Software Development and IT, VersionOne's authoritative 2013 [State of Agile Survey](http://bit.ly/AgileSurvey2013) reveals that Kanban has doubled in adoption among the Agile methodologies, and is frequently used as an alternative to Scrum.
