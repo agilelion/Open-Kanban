@@ -2,15 +2,15 @@
 
 | Open Kanban Metadata |||
 | :------------ | -----------: | -------------------: |
-| Author:     | Joseph Hurtado  | Joseph at AgileLion dot com |
-| Translator: | Christophe Keromen | Contact: ckeromen at Coactiv dot com |
-| Translator: | Olivier Destrade | Contact: olivier dot destrade at gmail dot com|
-| Languages Supported: | French ||
-| Contributor: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
-| Sponsor:    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
-| Main Repository:	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
-| Document Name:	| Open Kanban Main | Cette page décrit le noyau d'Open Kanban |
-| Release and License:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
+| Auteur :     | Joseph Hurtado  | Joseph at AgileLion dot com |
+| Traducteur: | Christophe Keromen | Contact: ckeromen at Coactiv dot com |
+| Traducteur : | Olivier Destrade | Contact: olivier dot destrade at gmail dot com|
+| Langue prise en charge : | French ||
+| Contributeur : | Annita Yegorova Hurtado | Annita at AgileLion dot com |
+| Sponsor :    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
+| Répertoire principal :	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
+| Nom du document :	| Open Kanban Main | Cette page décrit le noyau d'Open Kanban |
+| Version et licence :     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
 
 ## Notre mouvement pour un Kanban Libre et Ouvert
 Open Kanban est un mouvement visant à mettre les valeurs fondamentales et les principes de Kanban à disposition de tous. Il s'inspire du [mouvement](https://en.wikipedia.org/wiki/Open-source_software) Open Source dont l'objectif est de donner aux utilisateurs de logiciel et aux développeurs les quatre libertés essentielles du [logiciel libre.](http://www.gnu.org/philosophy/free-sw.html)
