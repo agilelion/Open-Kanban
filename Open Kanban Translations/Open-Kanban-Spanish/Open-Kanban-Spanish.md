@@ -50,9 +50,9 @@ Open Kanban es el corazón de todos estos métodos. Nuestra licencia permite que
 
 Todos los métodos Open Kanban comparten las siguientes características:
 - Un núcleo Kanban común que es ambos, ágil y Lean   
-- Una aproximación colaborativa para mejorar Open Kanban en sí mismo mediante subiendo sus ideas al repositorio principal de Open Kanban; donde pueden ser compartidas con toda la comunidad Open Kanban.
+- Una aproximación colaborativa para mejorar Open Kanban en sí mismo, subiendo sus ideas al repositorio principal de Open Kanban; donde pueden ser compartidas con toda la comunidad Open Kanban.
 
-La naturaleza del Movimiento Open Kanban puede ser fácilmente comprendida examinando el diagrama debajo:
+La naturaleza del Movimiento Open Kanban puede ser fácilmente comprendida examinando el diagrama siguiente:
 ![Diagrama de Métodos Open Kanban - El Ecosistema de Open Kanban](http://farm8.staticflickr.com/7444/12660096254_3663c7585f_o.png)
 
 Open Kanban puede ser extendido y personalizado por la gente y las organizaciones que desean crear un método Ágil y Lean que es completo y personalizado para su propia audiencia. Por ejemplo, [Kanban Ace](http://agilelion.com/why-learn-kanban-ace) es un Método Ágil y Lean basado en Open Kanban; pero extendido para las necesidades particulares del Desarrollo de Software, negocios e IT.
