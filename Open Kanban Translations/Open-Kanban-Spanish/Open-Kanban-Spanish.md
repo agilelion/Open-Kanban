@@ -59,8 +59,10 @@ Open Kanban puede ser extendido y personalizado por la gente y las organizacione
 
 A medida que crece el movimiento Open Kanban esperamos que muchos métodos adicionales de Open Kanban se nos unan. Ya compartimos muchas ideas claves con el [Kanban for Teams](http://www.netobjectives.com/resources/articles/lean-kanban-for-teams) de Alan Shalloway, con el [Scrumban](http://www.amazon.com/Scrumban-Essays-Systems-Software-Development/dp/0578002140/) de Corey Ladas, y el [Kanban Thinking](http://availagility.co.uk/kanban-thinking/) de Karl Scotland. Extendemos una invitación abierta a ellos, y a todo pensador líder u organización que quiera unírsenos para construir un Movimiento Open Kanban fuerte.
 
-## Open Kanban Components
-The following are the key values and practices that make up Open Kanban. Given that this is our initial release, we do expect future contributions and revisions. Feedback is welcome, and yes you can use GitHub with a [Pull request](https://help.github.com/articles/using-pull-requests)!
+## Componentes de Open Kanban
+
+Los siguientes son las prácticas y los valores clave que componen a Open Kanban. Dado que esta es nuestra primera versión, ciertamente esperamos futuras contribuciones y revisiones. El feedback es bienvenido, y por supuesto, ¡pueden usar GitHub con un pedido de [Pull](https://help.github.com/articles/using-pull-requests)!  
+
 
 ### 1. Open Kanban Values
 Open Kanban practices are rooted in values that are Lean and Agile; those values are an integral part of Open Kanban. Open Kanban values are:
