@@ -64,13 +64,14 @@ A medida que crece el movimiento Open Kanban esperamos que muchos métodos adici
 Los siguientes son las prácticas y los valores clave que componen a Open Kanban. Dado que esta es nuestra primera versión, ciertamente esperamos futuras contribuciones y revisiones. El feedback es bienvenido, y por supuesto, ¡pueden usar GitHub con un pedido de [Pull](https://help.github.com/articles/using-pull-requests)!  
 
 
-### 1. Open Kanban Values
-Open Kanban practices are rooted in values that are Lean and Agile; those values are an integral part of Open Kanban. Open Kanban values are:
+### 1. Valores de Open Kanban
+Las prácticas de Open Kanban están enraizadas en valores que son Lean y Agile; esos valores son una parte integral de Open Kanban. Los valores de Open Kanban son:
 
-1.  Respect for people
-    *   At the core of Lean and TPS is respecting people. Respect for people also means assuming responsibility for your actions, and empowering others to take those actions.
-    *   Respect for people allows for delegation and the demand-pull that is crucial to Kanban. When any developer is able to take a story from the backlog and pull it to development or QA, he is able to do so because we respect him, we respect his skills, and we give him the ability to do so, we empower him through our respect.
-    *   Respect for people also aligns with sustainable pace in Agile, or Muri 無理 in Lean. If you respect your team you will not work them to death, or subject any worker to intellectual or physical demands that make it nearly impossible to succeed. An exhausted developer, manager or team are the perfect recipe for disaster. Kanban cannot succeed this way.
+1.  Respeto por la gente
+
+    *   En el núcleo de Lean y TPS está el respeto por la gente. Respetar a la gente también significa asumir la responsabilidad por tus acciones, y darle la posibilidad a otros que tomen esas acciones.
+    *   El respeto por la gente permite la delegación y el basarse en la demanda que es crucial en Kanban. Cuando un desarrollador puede tomar una historia del backlog y llevarla directamente a desarrollo o QA, puede hacerlo porque lo respetamos, respetamos sus habilidades, y le damos la posibilidad de hacerlo mediante nuestro respeto.
+    *   Respeto por la gente también se alinea con el ritmo sustentable en Agile., o Muri 無理 en Lean. Si respetas a tu equipo no los vas a “matar” trabajando, o exponer a cualquier trabajador a demandas físicas o psicológicas que harían casi imposible para él tener éxito. Un desarrollador, gerente o equipo exhaustos son la receta perfecta para el desastre. Kanban no puede ser exitoso de esta forma.
 2.  Courage
 	*   Respect for people is not enough; like [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) noticed in order to improve or even correct mistakes we need courage. When a manager, VP, or person in authority makes a mistake and someone with lower rank notices it, it takes courage for him to tell us about it.
     *   Courage combined with respect for people enable effective delegation, proper demand-pull and continuous improvement.
