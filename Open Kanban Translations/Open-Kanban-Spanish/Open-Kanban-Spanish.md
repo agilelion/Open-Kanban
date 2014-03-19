@@ -68,7 +68,6 @@ Los siguientes son las prácticas y los valores clave que componen a Open Kanban
 Las prácticas de Open Kanban están enraizadas en valores que son Lean y Agile; esos valores son una parte integral de Open Kanban. Los valores de Open Kanban son:
 
 1.  Respeto por la gente
-
     *   En el núcleo de Lean y TPS está el respeto por la gente. Respetar a la gente también significa asumir la responsabilidad por tus acciones, y darle la posibilidad a otros que tomen esas acciones.
     *   El respeto por la gente permite la delegación y el basarse en la demanda que es crucial en Kanban. Cuando un desarrollador puede tomar una historia del backlog y llevarla directamente a desarrollo o QA, puede hacerlo porque lo respetamos, respetamos sus habilidades, y le damos la posibilidad de hacerlo mediante nuestro respeto.
     *   Respeto por la gente también se alinea con el ritmo sustentable en Agile., o Muri 無理 en Lean. Si respetas a tu equipo no los vas a “matar” trabajando, o exponer a cualquier trabajador a demandas físicas o psicológicas que harían casi imposible para él tener éxito. Un desarrollador, gerente o equipo exhaustos son la receta perfecta para el desastre. Kanban no puede ser exitoso de esta forma.
