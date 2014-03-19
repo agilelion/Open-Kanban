@@ -43,34 +43,37 @@ Open Kanban incluye tres componentes claves que lo definen:
 - Una serie de prácticas que traducen dichos valores en acción.
 - Una licencia de código abierto que permite que cualquiera pueda construir sobre él o modificarlo.
 
-### The Open Kanban Movement
+### El movimiento Open Kanban
 
-Extensions on top of Open Kanban constitute Agile and Lean Methods based on Open Kanban, or Open Kanban Methods. Open Kanban is the heart of all those Kanban methods. Our license allows them to be free or commercial. All these Kanban methods working together and collaborating are the basis of the Open Kanban Movement.  We look forward to having many Open Kanban methods that collaborate with each other to benefit all.
+Las extensiones por encima de Open Kanban contituyen métodos Agile y Lean basados en Open Kanban, o métodos Open Kanban.
+Open Kanban es el corazón de todos estos métodos. Nuestra licencia permite que sean libres o comerciales. Todos estos médotodos Kanban trabajando en conjunto son la base del movimiento Open Kanban. Esperamos con ansias tener muchos métodos Open Kanban colaborando entre sí para beneficiarse entre todos.
 
-All Open Kanban Methods share in common the following characteristics:    
-- A common Open Kanban core that is both Agile and Lean  
-- A collaborative approach to improve Open Kanban itself by submitting their ideas back to the main Open Kanban repository; where they can be shared with all the Open Kanban community.
+Todos los métodos Open Kanban comparten las siguientes características:
+- Un núcleo Kanban común que es ambos, ágil y Lean   
+- Una aproximación colaborativa para mejorar Open Kanban en sí mismo, subiendo sus ideas al repositorio principal de Open Kanban; donde pueden ser compartidas con toda la comunidad Open Kanban.
 
-The nature of the Open Kanban Movement can be easily understood by examining the diagram below:
-![Diagram of Open Kanban Methods - The Open Kanban Ecosystem](http://farm8.staticflickr.com/7420/9502339079_7c08751a30_o.png)
+La naturaleza del Movimiento Open Kanban puede ser fácilmente comprendida examinando el diagrama siguiente:
+![Diagrama de Métodos Open Kanban - El Ecosistema de Open Kanban](http://farm8.staticflickr.com/7444/12660096254_3663c7585f_o.png)
 
-Open Kanban can be extended and customized by people or organizations that wish to create an Agile and Lean Kanban method that is complete and customized for their particular audience. For example [Kanban Ace](http://agilelion.com/why-learn-kanban-ace) is an Agile and Lean Method based on Open Kanban; but extended to address the particular needs of IT,  Software Development and business. 
+Open Kanban puede ser extendido y personalizado por la gente y las organizaciones que desean crear un método Ágil y Lean que es completo y personalizado para su propia audiencia. Por ejemplo, [Kanban Ace](http://agilelion.com/why-learn-kanban-ace) es un Método Ágil y Lean basado en Open Kanban; pero extendido para las necesidades particulares del Desarrollo de Software, negocios e IT.
 
-As the Open Kanban movement grows we expect many additional Open Kanban methods to join us. We already share many key ideas with Alan Shalloway's [Kanban for Teams](http://www.netobjectives.com/resources/articles/lean-kanban-for-teams), Corey Ladas [Scrumban](http://www.amazon.com/Scrumban-Essays-Systems-Software-Development/dp/0578002140/) and Karl Scotland's [Kanban Thinking](http://availagility.co.uk/kanban-thinking/). We extend an open invitation to them, and to any leading thinker or organization that wants to join us to build a strong Open Kanban Movement.
+A medida que crece el movimiento Open Kanban esperamos que muchos métodos adicionales de Open Kanban se nos unan. Ya compartimos muchas ideas claves con el [Kanban for Teams](http://www.netobjectives.com/resources/articles/lean-kanban-for-teams) de Alan Shalloway, con el [Scrumban](http://www.amazon.com/Scrumban-Essays-Systems-Software-Development/dp/0578002140/) de Corey Ladas, y el [Kanban Thinking](http://availagility.co.uk/kanban-thinking/) de Karl Scotland. Extendemos una invitación abierta a ellos, y a todo pensador líder u organización que quiera unírsenos para construir un Movimiento Open Kanban fuerte.
 
-## Open Kanban Components
-The following are the key values and practices that make up Open Kanban. Given that this is our initial release, we do expect future contributions and revisions. Feedback is welcome, and yes you can use GitHub with a [Pull request](https://help.github.com/articles/using-pull-requests)!
+## Componentes de Open Kanban
 
-### 1. Open Kanban Values
-Open Kanban practices are rooted in values that are Lean and Agile; those values are an integral part of Open Kanban. Open Kanban values are:
+Los siguientes son las prácticas y los valores clave que componen a Open Kanban. Dado que esta es nuestra primera versión, ciertamente esperamos futuras contribuciones y revisiones. El feedback es bienvenido, y por supuesto, ¡pueden usar GitHub con un pedido de [Pull](https://help.github.com/articles/using-pull-requests)!  
 
-1.  Respect for people
-    *   At the core of Lean and TPS is respecting people. Respect for people also means assuming responsibility for your actions, and empowering others to take those actions.
-    *   Respect for people allows for delegation and the demand-pull that is crucial to Kanban. When any developer is able to take a story from the backlog and pull it to development or QA, he is able to do so because we respect him, we respect his skills, and we give him the ability to do so, we empower him through our respect.
-    *   Respect for people also aligns with sustainable pace in Agile, or Muri 無理 in Lean. If you respect your team you will not work them to death, or subject any worker to intellectual or physical demands that make it nearly impossible to succeed. An exhausted developer, manager or team are the perfect recipe for disaster. Kanban cannot succeed this way.
-2.  Courage
-	*   Respect for people is not enough; like [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) noticed in order to improve or even correct mistakes we need courage. When a manager, VP, or person in authority makes a mistake and someone with lower rank notices it, it takes courage for him to tell us about it.
-    *   Courage combined with respect for people enable effective delegation, proper demand-pull and continuous improvement.
+
+### 1. Valores de Open Kanban
+Las prácticas de Open Kanban están enraizadas en valores que son Lean y Agile; esos valores son una parte integral de Open Kanban. Los valores de Open Kanban son:
+
+1.  Respeto por la gente
+    *   En el núcleo de Lean y TPS está el respeto por la gente. Respetar a la gente también significa asumir la responsabilidad por tus acciones, y darle la posibilidad a otros que tomen esas acciones.
+    *   El respeto por la gente permite la delegación y el basarse en la demanda que es crucial en Kanban. Cuando un desarrollador puede tomar una historia del backlog y llevarla directamente a desarrollo o QA, puede hacerlo porque lo respetamos, respetamos sus habilidades, y le damos la posibilidad de hacerlo mediante nuestro respeto.
+    *   Respeto por la gente también se alinea con el ritmo sustentable en Agile., o Muri 無理 en Lean. Si respetas a tu equipo no los vas a “matar” trabajando, o exponer a cualquier trabajador a demandas físicas o psicológicas que harían casi imposible para él tener éxito. Un desarrollador, gerente o equipo exhaustos son la receta perfecta para el desastre. Kanban no puede ser exitoso de esta forma.
+2.  Coraje
+    *   El respeto por la gente no es suficiente; como [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) se dio cuenta para mejorar o incluso corregir errores necesitamos coraje. Cuando un gerente, VP, o persona con autoridad se equivoca y alguien con menos poder se da cuenta, se requiere de coraje para que este persona nos comente sobre el error.
+    *   El coraje combinado con el respeto por la gente permite delegación efectiva, trabajo por demanda y mejor continua.
 3.  Focus on Value
     *   One of the key purposes of Kanban is the creation of value. In software development value means the creation of working, good quality code and is also part of Agile. Value implies customer satisfaction, and that is the purpose of our efforts.
     *   Value is at the center of Lean and TPS, but frequently it is mentioned as the reverse side of the coin: eliminate waste or "Muda" in Japanese Muda 無駄 represents anything that does not add value to your process or flow. By eliminating waste, we optimize the creation of value.
