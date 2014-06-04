@@ -51,7 +51,7 @@ Todos os Métodos Open Kanban têm em comum as seguintes características:
 - Uma abordagem colaborativa para melhorar o Open Kanban enviando suas idéias de volta ao repositório principal do Open Kanban; onde eles podem ser compartilhados com toda a comunidade Open Kanban.
 
 A natureza do Movimento Open Kanban pode ser facilmente compreendida pela análise do diagrama abaixo:
-![Diagrama de Métodos Open Kanban - O Ecossistema Open Kanban](http://farm8.staticflickr.com/7420/9502339079_7c08751a30_o.png)
+![Diagrama de Métodos Open Kanban - O Ecossistema Open Kanban](https://github.com/rodrigosilvap/Open-Kanban/blob/master/Open%20Kanban%20Translations/Open-Kanban-Portuguese/img/Open-Kanban-and-Derivative-Methods---Source-in-Illustrator--CC-BY-Joseph-Hurtado-AgileLion-Institute.png)
 
 Open Kanban pode ser estendido e personalizado por pessoas ou organizações que desejam criar um método Kanban Ágil e Lean que seja completo e personalizado para o seu público específico. Por exemplo [Kanban Ace](http://agilelion.com/why-learn-kanban-ace) é um Método Ágil e Lean baseado no Open Kanban; mas estendido para atender às necessidades específicas de TI, Desenvolvimento de Software e negócios. 
 
