@@ -93,7 +93,6 @@ Los valores de Open Kanban se traducen en acción siguiendo las siguientes cuatr
     *   Esta práctica de Kanban hace más fácil colaborar en un equipo, y también provee transparencia acerca del proceso y el trabajo que todos están haciendo. Si un gerente puede fácilmente ver en cualquier momento cuál es el estado de las cosas, y si sos un miembro del equipo podés ver el impacto de tu trabajo en el trabajo total.
     *   Visualizar el flujo del trabajo no se limita a los tableros Kanban; uno también puede usar signos y diagramas que el equipo puede ver en su ambiente de trabajo, como pizarras, métricas de desempeño u otros [radiadores de información](http://alistair.cockburn.us/Information+radiator)
 2.  Liderar usando una aproximación de equipo
-<<<<<<< HEAD
     *   A menos que tu organización esté compuesta por una sola persona, no se puede conseguir nada valioso sin liderar un equipo.
     *   Aunque Kanban comienza donde vos estás, y no necesita modificar ningún título o rol en la organización, Kanban no puede funcionar sin un equipo qpara entregar valor.
     *   Equipos y liderazgo son cruciales para entregar valor. Ambos son necesario en Kanban: buenos equipos y buen liderazgo de equipo. No hay necesidad de nuevos roles o títulos, pero pero sí es necesario contar con equipos de trabajo, ¡con líderes en ellos!
@@ -108,7 +107,6 @@ Los valores de Open Kanban se traducen en acción siguiendo las siguientes cuatr
     *   Vale la pena mencionar que esta práctica se alinea con el valor Ágil de aceptar el cambio, y hay muchas maneras en que un equipo Kanban puede implementar esta práctica, se podria tener Retrospectivas, Reuniones Estratégicas o incluso  [Grupos Kaizen](https://es.wikipedia.org/wiki/Kaizen).
     *   ¡Aprender es el concepto clave antes que la mejora continuar pueda suceder! Una vez que aprender forma parte de la cultura, parte del flujo de trabajo, entonces mejorar continuamente se hace fácil.
     *   Open Kanban apoya además aprender escuchando a la comunidad y actualizándose a sí mismo para ser un mejor método Ágil y Lean.
-=======
     *   A menos que su organización esté compuesta por sólo una persona, no puede conseguir nada valioso sin liderar un equipo.
     *   Aunque Kanban comienza donde vos estás, y no necesita modificar títulos o roles en una organización, Kanban no puede trabajar sin un equipo que entregue valor.
     *   Los equipos y el liderazgo son cruciales para entregar valor. Ambos se necesitan en Kanban: buenos equipos y buen liderazgo de equipo. No hay necesidad de nuevos roles o títulos, pero ¡sí tenemos una necesidad de equipos de trabajo, con líderes en ellos!
