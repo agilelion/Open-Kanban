@@ -115,49 +115,56 @@ Los valores de Open Kanban se traducen en acción siguiendo las siguientes cuatr
 3.  Reducir tamaño del lote de los esfuerzos 
     *   Investigar la manera en que [la mente funciona](http://www.thenewatlantis.com/publications/the-myth-of-multitasking), e [incontables](http://blogs.hbr.org/bregman/2010/05/how-and-why-to-stop-multitaski.html) experiencias de [Lean](http://management.curiouscatblog.net/2010/05/24/people-cannot-multitask/), la [teoría de las restricciones](http://theoryofconstraints.blogspot.com/2007/07/multi-tasking-why-projects-take-so-long.html) y [Kanban](http://www.personalkanban.com/pk/expert/multitasking-and-bottlenecks-why-limit-your-wip-iii/#sthash.qqyUA7tS.dpbs) confirman que para entregar valor más rápido, con mejor flujo y buena moral de equipo necesitamos enfocarnos y limitar el número de cosas que hacemos. La multi-tarea (multi-tasnking) no funciona.
     *   Limitar cuantas cosas se hacen en un momento dado, significa reducir el tamaño del lote o lo que sea que estén haciendo en un momento particular de la cadena. Haciendo esto, se entregará valor más rápidamente porque se tiene la capacidad de enfocar los esfuerzos, una de las mejores explicaciones de este hecho ha sido dadas por [Donald G. Reinertsen](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009). Mantener el equipo enfocado ayuda a terminar lo que se inicia más rápidamente. 
-    * Limiting WIP is a consequence of reducing the batch size of your efforts, and not the other way around. However doing either will result in improvements in efficiency and productivity. Open Kanban does not ask you to limit WIP, but it does request that you "Reduce the Batch Size of your Efforts."
-    * How do you reduce the batch size of your efforts? Reduce the complexity and the quantity of things you do at any stage of the value chain. In software development this would mean: reduce the number of large stories (epics) you create, and do your best to keep stories simple; also reduce the volume of stories you work on any stage of the Software Development Life Cycle; this way your team will focus, and deliver more value.
- 
-4.  Learn and improve continuously
-    *   The four previous practices ensure you are doing things better than before, and that you deliver more value. However to make sure you make a significant jump in innovation, morale, and value we must also stop, learn and apply our knowledge to improve!
-    *   It is worth mentioning that this practice aligns with the Agile value of embracing change, and there are many ways a Kanban team can implement this practice, you could have Retrospectives, Strategy Meetings or even [Kaizen Groups](https://en.wikipedia.org/wiki/Kaizen).
-    *   Learning is the key concept before continuous improvement can ever happen! Once learning is part of the culture, part of the workflow, then improving continuously becomes easy.
-    * Open Kanban further supports learning by listening to the community and updating itself to be a better Agile and Lean method.
->>>>>>> 61a1092550dd045982784b1a15436352e8bba1c2
+    *   Limitar el WIP (trabajo en progreso) es una consecuencia de reducir el tamaño del lote de los esfuerzos, y al revés. Sin embargo cualquiera de estas cosas que uno haga resulta en mejorar la eficiencia y productividad. Open Kanban no pide limitar el WIP, pero si solicita que "se reduzca el tamñaño del lote de los esfuerzos".
+    *   ¿Cómo reducir el tamaño del lote de los esfuerzos? Reducir la complejidad y cantidad de cosas que se hacen en un momento dado de la cadena de valor. En desarrollo de software esto significaría: reducir el número historias largas (épicas) que se crean, y hacer lo posible para mantener las historias simples; también reducir el volumen de las historias en las cuales se trabaja en una etapada dada del ciclo de vida del desarrollo de software; de esta forma tu equipo se enfocará, y entregará más valor. 
+4.  Aprender y mejorar continuamente 
+    *   Las cuatro previas prácticas aseguran que se están haciendo las cosas mejor que antes, y se está entregando más valor. Sin embargo para asegurarse que que se está haciendo un salto significativo en innovación, moral y valor, debemos también detenernos, aprender y ¡aplicar nuestro conocimiento para mejorar! 
+    *   Vale la pena mencionar que esta práctica se alinea con el valor Ágil de aceptar el cambio, y hay muchas maneras en que un equipo Kanban puede implementar esta práctica, se podria tener Retrospectivas, Reuniones Estratégicas o incluso  [Grupos Kaizen](https://es.wikipedia.org/wiki/Kaizen). 
+    *   ¡Aprender es el concepto clave antes que la mejora continuar pueda suceder! Una vez que aprender forma parte de la cultura, parte del flujo de trabajo, entonces mejorar continuamente se hace fácil. 
+    *   Open Kanban apoya además aprender escuchando a la comunidad y actualizándose a sí mismo para ser un mejor método Ágil y Lean. 
 
-### 3. Open Kanban's License
+### 3. Licencia de Open Kanban 
 
-Our search for a suitable open source license for the project led us to three possible choices to foster collaboration and the four freedoms we have embraced, those licenses were: the GNU [LGPL](http://www.gnu.org/licenses/lgpl.html) v3, the [MIT](http://opensource.org/licenses/MIT) License, and [Creative Commons](http://creativecommons.org) most open licenses.
 
-Although the first two licenses are [appropriate](http://choosealicense.com/licenses/), both are designed for sharing of computer source code. Creative Commons on the other hand is appropriate for knowledge work that deals with writing, and media creation. Major endorsements by [Wikipedia](http://creativecommons.org/weblog/entry/15411), [Flickr](http://www.flickr.com/creativecommons/), [Autodesk](http://creativecommons.org/weblog/entry/39184) and many [more](http://wiki.creativecommons.org/Case_Studies) convinced us of their reputation and [future](http://creativecommons.org/weblog/entry/38371) as a trustworthy promoter of [freedom](http://creativecommons.org/culture) in our culture.
+Nuestra búsqueda de una licencia open source para el proyecto nos llevó a tres posibles opciones para fomentar la colaboración y las cuatro libertades que hemoss acogido, esas licencias fueron: licencia GNU [LGPL](http://www.gnu.org/licenses/lgpl.html) v3, licencia [MIT](http://opensource.org/licenses/MIT), y licencia [Creative Commons](http://creativecommons.org). 
 
-Our Open Kanban License is therefore based on Creative Commons and fully compatible with the four freedoms of the open source movement we embrace. **We selected the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/)**, commonly referred to as [CC BY](http://creativecommons.org/licenses/by/3.0/) as our license; this is one of the most open licenses available. Open Kanban's CC BY license fully allows you to:  
-- Share, copy, and modify Open Kanban  
-- Use Open Kanban for personal, commercial or non-profit goals.  
 
-We only ask you that you:  
-	- Give us credit  
-	- Contribute your best ideas back to Open Kanban root repository.
+Aunque las primeras dos licencias son [apropiadas](http://choosealicense.com/licenses/), ambas están diseñadas para compartir código de computadora. Por otro lado, Creative Commons es apropiada para trabajo relacionado con conocimiento que trata sobre escritos, y creación de contenido en los medios. Importantes apoyos de  [Wikipedia](http://creativecommons.org/weblog/entry/15411), [Flickr](http://www.flickr.com/creativecommons/), [Autodesk](http://creativecommons.org/weblog/entry/39184) y muchos más [more](http://wiki.creativecommons.org/Case_Studies) nos convencieron de su reputación y [futuro](http://creativecommons.org/weblog/entry/38371) como un confiable promotor de la [libertad](http://creativecommons.org/culture) en nuestra cultura. 
 
-## How Can You Contribute?
-First of all talk about and recommend Open Kanban! You can find the company behind this idea: AgileLion Institute on [Twitter](https://twitter.com/AgileLionInst), [LinkedIn](http://www.linkedin.com/company/agilelion-institute), [Google Plus](https://plus.google.com/104894673916035923996/posts), and on the [web](http://agilelion.com). 
 
-Second, if you understand Kanban well, and wish to contribute, get familiar with Git, fork us and contribute back to us by submitting your [pull request](https://help.github.com/articles/creating-a-pull-request) on [GitHub](https://github.com/agilelion/Open-Kanban)! 
+Nuestra licencia Open Kanban está por lo tanto basada en Creative Commons y es completamente compatible con nuestras cuatro libertades del movimiento open source que acogemos. **Seleccionamos la licencia [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/)**, comunmente referida como [CC BY](http://creativecommons.org/licenses/by/3.0/) como nuestra licencia; esta es una de las licencias más abiertas disponibles. El CC BY de Open Kanban permite totalmente: 
+- Compartir, copiar, y modificar Open Kanban  
+- Usar Open Kanban para uso personal, comercial u objetivos sin fines de lucro.   
 
-Third, our vision of Open Kanban is much bigger than this document, we want to make Open Kanban into an independent website, and spread the Open Kanban Movement around the world of Agile and Lean practitioners. If you would like to do more we welcome your help in any of the following areas:
 
-* Translations. We would like to reach the world with Open Kanban. We welcome translators from any part of the world!
-* Graphic Design. We would like to create several logos to identify people who follow, support us, or join forces as Open Kanban Methods or Certified Education providers.
-* Web Design and Development. We would like to have a website dedicated to Open Kanban, where people can find information about the project, education providers and like minded people who support the initiative. We are committed to Open Source solutions and languages such as PHP, Drupal and Ruby on Rails.
-* Hosting. If you would like to host our website, let us know. We are committed to open source operating systems such as Linux and FreeBSD.
-* Open Kanban Education. Join our initiative to offer Certified Open Kanban courses. We are in the early stages of this initiative; we would like to join forces with several education providers who share our vision for an Open Kanban alternative in the market. If you are interested please [contact us.](http://agilelion.com/contact)  
-* Financial Support. A financial donation page will be created soon, but if you want to contribute now, feel free to contact us [directly.](http://agilelion.com/contact)  
-* Ideas and Suggestions. We welcome them in our [forum!](http://www.linkedin.com/groups?home=&amp;gid=4809439) 
+Sólo pedimos que: 
+- Nos des crédito   
+- Contribuyas tus mejores ideas de vuelta al repositorio raíz de Open Kanban. 
 
-Finally do consider contributing to the sponsor behind this project: AgileLion Institute by taking a [class with us.](http://agilelion.com/agile-kanban-classes) Our Kanban Ace course is the first one that is fully based on Open Kanban, and while you learn you make Open Kanban stronger.
 
-We truly believe in an open, collaborative Open Kanban Movement for all, thanks so much for staying with us all the way to the end Open Kanban's main document. May the values and principles of Open Kanban be useful to all of you!
+## ¿Cómo podés contribuir? 
+Primero que nada hablar sobre Open Kanban! Podés encontrar la compañía detrás de esta idea: AgileLion Institute en [Twitter](https://twitter.com/AgileLionInst), [LinkedIn](http://www.linkedin.com/company/agilelion-institute), [Google Plus](https://plus.google.com/104894673916035923996/posts), y en la [web](http://agilelion.com). 
 
-Joseph Hurtado  
-Founder [AgileLion Institute](http://agilelion.com)  
-Kanban Ace Coach - An Open Kanban Method
+
+Segundo, si podés entender Kanban bien, y deseás contribuir, familirizate con Git, bifurcá (hacé un fork) y contribuí con nosotros haciendo un pedido de pull [pull request](https://help.github.com/articles/creating-a-pull-request) en [GitHub](https://github.com/agilelion/Open-Kanban)!  
+
+
+Tercero, nuestra vsisión de Open Kanban es mucho más grande que este documento, queremos hacer de Open Kanban un website independiente, y difundir el Movimiento Open Kanban alrededor del mundo de los practicantes de Ágil y Lean. Si te gusta hacer más bienvenida tu ayuda en cualquiera de las siguientes áreas: 
+
+* Traducciones. Nos gustaría llegar al mundo con Open Kanban. Bienvenidos traductores de cualquier parte del mundo! 
+* Diseño gráfico. Nos gustaría crear varios logos para identificar a la gente que nos sigue, nos apoya, o une fuerzas como Métodos Open Kanban o proveedores de Educación Certificados. 
+* Diseño y desarrollo web. Nos gustaría tener un website dedicado a Open Kanban, donde la gente pueda encontrar información sobre el proyecto, proveedores de educación y gente de similares interéses que apoyen la iniciativa. Estamos comprometidos a las soluciones Open Source y lenguajes como PHP, Drupal, y Ruby on Rails. 
+* Hosting. Si estás interesado en alojar nuestro website, hacénoslo saber. Estamos comprometidos a los sistemas operativos Open Source como Linuex y FreeBSD. 
+* Educación Open Kanban. Unite a nuestra iniciativa de ofrecer cursos Certificados de Open Kanban. Estamos en las etapas tempranas de esta iniciativa; nos gustaría unir fuerzas con varios proveedores de educación quienes compartan nuestra visión de una alternativas Open Kanban en el mercado. Si estás interesado por favor [contactános ](http://agilelion.com/contact)   
+* Apoyo financiero. Una página para donaciones financieras será creada pronto, pero si querés contribuir ahora, sentite libre de contactarnos [directamente.](http://agilelion.com/contact)   
+* Ideas y sugerencias. ¡Bienvenidas en nuestra [foro!](http://www.linkedin.com/groups?home=&amp;gid=4809439)  
+
+Finalmente condirá contribuir al sponsor detrás de este proyecto: AgileLion Institute tomando una [clase con nosotros.](http://agilelion.com/agile-kanban-classes) Nuestro curso Kanban Ace es el primero que está completamente basado en Open Kanban, y mientras aprendés hacés a Open Kanban más fuerte. 
+
+
+Creemos fielmente en un Movimiento Open Kanban colaborativo para todos, muchas gracias por permanecer con nosotros durante todo el camino hasta el final del documento principal de Open Kanban. Que los valores y principios de Open Kanban sean útiles a todos ustedes! 
+
+
+Joseph Hurtado   
+Fundador [AgileLion Institute](http://agilelion.com)   
+Kanban Ace Coach - Un Método Open Kanban
